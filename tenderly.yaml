@@ -10,7 +10,7 @@ exports:
       eip150_block: 0
       eip150_hash: "0x0000000000000000000000000000000000000000000000000000000000000000"
       eip155_block: 0
-      eip158_block: 0
+      eip158_block: 0    protocol: ""
       byzantium_block: 0
       constantinople_block: 0
       petersburg_block: 0
